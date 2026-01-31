@@ -169,6 +169,17 @@ current structure :
 │   │   └── 📄 favicon.ico
 │   ├── 📁 src
 │   │   ├── 📁 app
+│   │   │   ├── 📁 components
+│   │   │   │   ├── 📁 layout
+│   │   │   │   │   ├── 📁 footer
+│   │   │   │   │   │   ├── 🌐 footer.component.html
+│   │   │   │   │   │   ├── 🎨 footer.component.scss
+│   │   │   │   │   │   └── 📄 footer.component.ts
+│   │   │   │   │   └── 📁 navbar
+│   │   │   │   │       ├── 🌐 navbar.component.html
+│   │   │   │   │       ├── 🎨 navbar.component.scss
+│   │   │   │   │       └── 📄 navbar.component.ts
+│   │   │   │   └── 📁 shared
 │   │   │   ├── 📄 app.config.server.ts
 │   │   │   ├── 📄 app.config.ts
 │   │   │   ├── 🎨 app.css
