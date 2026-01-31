@@ -180,6 +180,12 @@ current structure :
 │   │   │   │   │       ├── 🎨 navbar.component.scss
 │   │   │   │   │       └── 📄 navbar.component.ts
 │   │   │   │   └── 📁 shared
+│   │   │   ├── 📁 pages
+│   │   │   │   └── 📁 home
+│   │   │   │       ├── 🌐 home.component.html
+│   │   │   │       ├── 🎨 home.component.scss
+│   │   │   │       └── 📄 home.component.ts
+│   │   │   ├── 🌐 app.component.html
 │   │   │   ├── 📄 app.config.server.ts
 │   │   │   ├── 📄 app.config.ts
 │   │   │   ├── 🎨 app.css
